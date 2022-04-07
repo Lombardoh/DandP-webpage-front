@@ -21,3 +21,7 @@ Facebook.args = {
   link: "https://www.google.com",
   icon: <FaFacebookF />
 }
+
+export const Empty = Template.bind({});
+
+Empty.args = { }
